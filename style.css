@@ -1,0 +1,109 @@
+* {
+    font-family: system-ui;
+    background-color: #ffffff;
+}
+
+.heading {
+    background-color: #FFFF01;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.table-1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: 700;
+}
+
+td {
+    width: 30px;
+}
+
+.blank {
+    border: none;
+}
+
+.border-purple-red {
+    background-color: #979CFE;
+    color: red;
+    border: 4px solid #000000;
+}
+
+.border-golden {
+    background-color: #CC9902;
+    border: 4px solid #000000;
+}
+
+.border-golden-white {
+    background-color: #CC9902;
+    border: 4px solid #000000;
+    color: #ffffff;
+}
+
+.border-yellow {
+    background-color: #FFCC00;
+    border: 4px solid #000000;
+}
+
+.border-green {
+    background-color: #01CB67;
+    border: 4px solid #000000;
+}
+
+.border-green-red {
+    background-color: #01CB67;
+    color: red;
+    border: 4px solid #000000;
+}
+
+.border-green-blue {
+    background-color: #01CB67;
+    color: blue;
+    border: 4px solid #000000;
+}
+
+.border-dark-green {
+    background-color: #006767;
+    border: 4px solid #000000;
+}
+
+.border-light-pink {
+    background-color: #CB6597;
+    border: 4px solid #000000;
+}
+
+.border-light-pink-blue {
+    background-color: #CB6597;
+    border: 4px solid #000000;
+    color: #0000ff;
+}
+
+.border-light-pink-white {
+    background-color: #CB6597;
+    border: 4px solid #000000;
+    color: #ffffff;
+}
+
+.border-dark-pink {
+    background-color: #FD67C7;
+    border: 4px solid #000000;
+}
+
+.border-orange {
+    background-color: #F96905;
+    border: 4px solid #000000;
+}
+
+.border-light-blue {
+    background-color: #0099CB;
+    border: 4px solid #000000;
+}
+
+.border-black {
+    background-color: #000000;
+    border: 4px solid #000000;
+    color: #ffffff;
+}
